@@ -1,0 +1,17 @@
+{
+  "name": "numbers-api",
+  "version": "1.0.0",
+  "description": "Numbers API - Bring meaning to your metrics and stories to your dates",
+  "repository": "https://github.com/Smoczysko/numbers-api",
+  "bin": {
+    "numbersapi": "./bin/index.js"
+  },
+  "preferGlobal": true,
+  "author": "Łukasz Rybka",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "commander": "^4.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
