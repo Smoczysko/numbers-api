@@ -1,5 +1,5 @@
 {
-  "name": "numbers-api",
+  "name": "@smoczysko/numbers-api",
   "version": "1.0.0",
   "description": "Numbers API - Bring meaning to your metrics and stories to your dates",
   "repository": "https://github.com/Smoczysko/numbers-api",
